@@ -70,3 +70,9 @@ function checkForWin() {
         
 
 }
+
+
+var cells = document.getElementByClassName("cell");
+for (var i = 0; i < cells.length; i++) {
+
+}
